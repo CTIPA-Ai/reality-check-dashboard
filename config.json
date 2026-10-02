@@ -1,0 +1,22 @@
+{
+  "title": "Reality Check Dashboard",
+  "timezone": "America/New_York",
+  "counters": [
+    {
+      "id": "epstein",
+      "label": "Days Since Epstein Files Not Fully Released",
+      "since": "2025-11-19"
+    },
+    {
+      "id": "iran",
+      "label": "Days Since U.S. Declared War on Iran",
+      "since": "2026-02-28"
+    }
+  ],
+  "election": {
+    "label": "Days Until the Midterm Election",
+    "date": "2026-11-03",
+    "pollsOpen": "2026-11-03T06:00:00-05:00",
+    "cta": "VOTE VOTE VOTE"
+  }
+}
