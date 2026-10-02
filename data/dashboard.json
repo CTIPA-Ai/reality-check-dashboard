@@ -2,8 +2,16 @@
   "title": "Reality Check Dashboard",
   "timezone": "America/New_York",
   "counters": [
-    { "id": "epstein", "label": "Days Since Epstein Files Not Fully Released", "since": "2025-11-19" },
-    { "id": "iran", "label": "Days Since U.S. Declared War on Iran", "since": "2026-02-28" }
+    {
+      "id": "epstein",
+      "label": "Days Since Epstein Files Not Fully Released",
+      "since": "2025-11-19"
+    },
+    {
+      "id": "iran",
+      "label": "Days Since U.S. Declared War on Iran",
+      "since": "2026-02-28"
+    }
   ],
   "election": {
     "label": "Days Until the Midterm Election",
@@ -11,8 +19,24 @@
     "pollsOpen": "2026-11-03T06:00:00-05:00",
     "cta": "VOTE VOTE VOTE"
   },
-  "gas": { "value": 4.4137, "asOf": "2026-10-01", "source": "AAA National Average", "url": "https://gasprices.aaa.com/" },
-  "inflation": { "value": 3.4, "period": "August 2026", "source": "BLS CPI-U All Items, 12 months", "url": "https://www.bls.gov/cpi/" },
-  "debt": { "value": 40171825101340.31, "asOf": "2026-09-30", "source": "U.S. Treasury “Debt to the Penny”", "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/" },
-  "updatedAt": "2026-10-02T12:00:00.000Z"
+  "gas": {
+    "value": 4.3961,
+    "asOf": "2026-10-02",
+    "source": "AAA National Average",
+    "url": "https://gasprices.aaa.com/"
+  },
+  "inflation": {
+    "value": 3.4,
+    "period": "August 2026",
+    "source": "BLS CPI-U All Items, 12 months",
+    "url": "https://www.bls.gov/cpi/",
+    "checkedAt": "2026-10-02T11:18:03.236Z"
+  },
+  "debt": {
+    "value": 40171825101340.31,
+    "asOf": "2026-09-30",
+    "source": "U.S. Treasury “Debt to the Penny”",
+    "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/"
+  },
+  "updatedAt": "2026-10-02T11:18:03.424Z"
 }
