@@ -20,8 +20,8 @@
     "cta": "VOTE VOTE VOTE"
   },
   "gas": {
-    "value": 4.3612,
-    "asOf": "2026-10-08",
+    "value": 4.3718,
+    "asOf": "2026-10-09",
     "source": "AAA National Average",
     "url": "https://gasprices.aaa.com/"
   },
@@ -30,7 +30,7 @@
     "period": "August 2026",
     "source": "BLS CPI-U All Items, 12 months",
     "url": "https://www.bls.gov/cpi/",
-    "checkedAt": "2026-10-09T00:15:54.978Z"
+    "checkedAt": "2026-10-09T13:44:06.695Z"
   },
   "debt": {
     "value": 40284036147367.19,
@@ -38,5 +38,5 @@
     "source": "U.S. Treasury “Debt to the Penny”",
     "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/"
   },
-  "updatedAt": "2026-10-09T00:15:55.100Z"
+  "updatedAt": "2026-10-09T13:44:06.843Z"
 }
