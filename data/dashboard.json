@@ -30,13 +30,13 @@
     "period": "September 2026",
     "source": "BLS CPI-U All Items, 12 months",
     "url": "https://www.bls.gov/cpi/",
-    "checkedAt": "2026-10-15T09:21:20.978Z"
+    "checkedAt": "2026-10-15T21:44:19.959Z"
   },
   "debt": {
-    "value": 40343879238035.67,
-    "asOf": "2026-10-13",
+    "value": 40329229827541.02,
+    "asOf": "2026-10-14",
     "source": "U.S. Treasury “Debt to the Penny”",
     "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/"
   },
-  "updatedAt": "2026-10-15T09:21:21.002Z"
+  "updatedAt": "2026-10-15T21:44:20.006Z"
 }
