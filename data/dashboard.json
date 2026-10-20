@@ -20,23 +20,38 @@
     "cta": "VOTE VOTE VOTE"
   },
   "gas": {
-    "value": 4.2786,
-    "asOf": "2026-10-20",
-    "source": "AAA National Average",
-    "url": "https://gasprices.aaa.com/"
+    "value": 4.284,
+    "asOf": "2026-10-19",
+    "id": "gas",
+    "source": "EIA weekly U.S. regular gasoline retail price",
+    "url": "https://www.eia.gov/petroleum/gasdiesel/",
+    "dataset": "EIA API v2 petroleum/pri/gnd, series EMM_EPMR_PTE_NUS_DPG",
+    "units": "USD per gallon",
+    "frequency": "weekly (EIA publishes Monday afternoon ET; Tuesday after federal holidays)",
+    "retrievedAt": "2026-10-20T19:59:57.344Z",
+    "stale": false
   },
   "inflation": {
     "value": 3.7,
     "period": "September 2026",
     "source": "BLS CPI-U All Items, 12 months",
     "url": "https://www.bls.gov/cpi/",
-    "checkedAt": "2026-10-20T12:01:41.124Z"
+    "checkedAt": "2026-10-20T12:01:41.124Z",
+    "stale": false
   },
   "debt": {
     "value": 40387508795231.67,
     "asOf": "2026-10-16",
+    "debtHeldByPublic": 32532409708643.41,
+    "intragovernmentalHoldings": 7855099086588.26,
+    "id": "debt",
     "source": "U.S. Treasury “Debt to the Penny”",
-    "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/"
+    "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/",
+    "dataset": "FiscalData v2/accounting/od/debt_to_penny, field tot_pub_debt_out_amt",
+    "units": "USD",
+    "frequency": "daily on business days (each record is published the next business day)",
+    "retrievedAt": "2026-10-20T19:59:57.344Z",
+    "stale": false
   },
-  "updatedAt": "2026-10-20T12:01:41.272Z"
+  "updatedAt": "2026-10-20T19:59:57.344Z"
 }
