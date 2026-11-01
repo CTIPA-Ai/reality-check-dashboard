@@ -34,9 +34,16 @@
   "inflation": {
     "value": 3.7,
     "period": "September 2026",
+    "index": 336.94,
+    "indexYearAgo": 324.8,
+    "id": "inflation",
     "source": "BLS CPI-U All Items, 12 months",
     "url": "https://www.bls.gov/cpi/",
-    "checkedAt": "2026-10-20T12:01:41.124Z",
+    "dataset": "BLS series CUUR0000SA0 (CPI-U, U.S. city average, all items, not seasonally adjusted)",
+    "units": "percent change from same month one year earlier",
+    "frequency": "monthly (BLS release schedule: https://www.bls.gov/schedule/news_release/cpi.htm)",
+    "retrievedAt": "2026-11-01T16:16:39.058Z",
+    "checkedAt": "2026-11-01T16:16:39.058Z",
     "stale": false
   },
   "debt": {
@@ -53,5 +60,5 @@
     "retrievedAt": "2026-10-30T22:55:19.986Z",
     "stale": false
   },
-  "updatedAt": "2026-10-30T22:55:19.986Z"
+  "updatedAt": "2026-11-01T16:16:39.058Z"
 }
