@@ -47,18 +47,18 @@
     "stale": false
   },
   "debt": {
-    "value": 40584130080272.89,
-    "asOf": "2026-11-10",
-    "debtHeldByPublic": 32800204226578.75,
-    "intragovernmentalHoldings": 7783925853694.14,
+    "value": 40608506856903.25,
+    "asOf": "2026-11-12",
+    "debtHeldByPublic": 32824386143424.8,
+    "intragovernmentalHoldings": 7784120713478.45,
     "id": "debt",
     "source": "U.S. Treasury “Debt to the Penny”",
     "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/",
     "dataset": "FiscalData v2/accounting/od/debt_to_penny, field tot_pub_debt_out_amt",
     "units": "USD",
     "frequency": "daily on business days (each record is published the next business day)",
-    "retrievedAt": "2026-11-12T22:11:56.054Z",
+    "retrievedAt": "2026-11-13T23:49:37.441Z",
     "stale": false
   },
-  "updatedAt": "2026-11-12T22:11:56.054Z"
+  "updatedAt": "2026-11-13T23:49:37.441Z"
 }
