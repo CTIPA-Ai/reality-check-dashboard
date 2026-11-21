@@ -44,7 +44,7 @@
     "frequency": "monthly (BLS release schedule: https://www.bls.gov/schedule/news_release/cpi.htm)",
     "retrievedAt": "2026-11-01T16:16:39.058Z",
     "checkedAt": "2026-11-01T16:16:39.058Z",
-    "stale": false
+    "stale": true
   },
   "debt": {
     "value": 40709780700317.02,
@@ -60,5 +60,5 @@
     "retrievedAt": "2026-11-20T23:18:25.175Z",
     "stale": false
   },
-  "updatedAt": "2026-11-20T23:18:25.175Z"
+  "updatedAt": "2026-11-21T12:56:51.544Z"
 }
