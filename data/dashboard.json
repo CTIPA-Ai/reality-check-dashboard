@@ -20,15 +20,15 @@
     "cta": "VOTE VOTE VOTE"
   },
   "gas": {
-    "value": 3.805,
-    "asOf": "2026-11-16",
+    "value": 3.642,
+    "asOf": "2026-11-23",
     "id": "gas",
     "source": "EIA weekly U.S. regular gasoline retail price",
     "url": "https://www.eia.gov/petroleum/gasdiesel/",
     "dataset": "EIA API v2 petroleum/pri/gnd, series EMM_EPMR_PTE_NUS_DPG",
     "units": "USD per gallon",
     "frequency": "weekly (EIA publishes Monday afternoon ET; Tuesday after federal holidays)",
-    "retrievedAt": "2026-11-17T20:46:24.357Z",
+    "retrievedAt": "2026-11-24T18:12:29.696Z",
     "stale": false
   },
   "inflation": {
@@ -60,5 +60,5 @@
     "retrievedAt": "2026-11-23T22:33:38.529Z",
     "stale": false
   },
-  "updatedAt": "2026-11-23T22:33:38.529Z"
+  "updatedAt": "2026-11-24T18:12:29.696Z"
 }
